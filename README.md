@@ -9,7 +9,7 @@
 ### Languages and Tools
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,sqlite,mysql,azure,git,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sqlite,mysql,azure,git,discordjs)](https://skillicons.dev)
 
 
 #### Learning
