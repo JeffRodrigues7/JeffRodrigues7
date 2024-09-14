@@ -13,11 +13,11 @@
 
 
 #### Learning
-[![Learning](https://skillicons.dev/icons?i=react,java,nodejs,py,ts)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,py,ts)](https://skillicons.dev)
 
 
 #### Interest
-[![Interest](https://skillicons.dev/icons?i=graphql,opencv,django,lua,nextjs,jquery,php,c,cs,cpp,docker,dotnet,electron,angular)](https://skillicons.dev)
+[![Interest](https://skillicons.dev/icons?i=graphql,opencv,django,java,lua,nextjs,jquery,php,c,cs,cpp,docker,dotnet,electron,angular)](https://skillicons.dev)
 
 
 #### Services
