@@ -17,7 +17,7 @@
 
 
 #### Interest
-[![Interest](https://skillicons.dev/icons?i=graphql,opencv,django,java,lua,nextjs,jquery,php,c,cs,cpp,docker,dotnet,electron,angular)](https://skillicons.dev)
+[![Interest](https://skillicons.dev/icons?i=graphql,opencv,lua,nextjs,aws,docker,dotnet,electron,angular,go)](https://skillicons.dev)
 
 
 #### Services
