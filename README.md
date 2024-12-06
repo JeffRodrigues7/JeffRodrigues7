@@ -1,11 +1,11 @@
 <h1>👋Hi, I'm Jeff Rodrigues</h1>
-```
+
 - Name: Jefferson Rodrigues
 - Age: 20
 - Nationality: 'Brazilian'
 - I'm currently studying at:
 - Course: 'Software Engineer'
-```
+
 ### Languages and Tools
 
 ### My Skills
@@ -25,7 +25,7 @@
 
 
 #### Other
-[![Other](https://skillicons.dev/icons?i=discord,vscode,visualstudio,windows,powershell)](https://skillicons.dev)
+[![Other align:center](https://skillicons.dev/icons?i=discord,vscode,visualstudio,windows,powershell)](https://skillicons.dev)
 
 
 #### Social
