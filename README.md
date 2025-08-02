@@ -15,12 +15,12 @@
 
 <h3>My skills</h3>
 <div>
-    <img style="pointer-events: none;" style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/react-dark.svg" width="40" alt="React">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/html.svg" width="40" alt="HTML">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/css.svg" width="40" alt="CSS">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/javascript.svg" width="40" alt="JavaScript">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/tailwindcss-dark.svg" width="40" alt="Tailwind CSS">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/nodejs-dark.svg" width="40" alt="Node.js">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/react-dark.svg" width="40" alt="React">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/html.svg" width="40" alt="HTML">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/css.svg" width="40" alt="CSS">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/javascript.svg" width="40" alt="JavaScript">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/tailwindcss-dark.svg" width="40" alt="Tailwind CSS">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/nodejs-dark.svg" width="40" alt="Node.js">
     <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/azure-dark.svg" width="40" alt="Azure">
     <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/discordjs-dark.svg" width="40" alt="Discord.js">
 </div>
@@ -33,21 +33,21 @@
 
 <h3>Interest</h3>
 <div>
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/opencv-dark.svg" width="40" alt="OpenCV">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/cpp-dark.svg" width="40" alt="C++">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/lua-dark.svg" width="40" alt="Lua">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/aws.svg" width="40" alt="AWS">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/docker.svg" width="40" alt="Docker">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/dotnet.svg" width="40" alt=".NET">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/opencv-dark.svg" width="40" alt="OpenCV">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/cpp-dark.svg" width="40" alt="C++">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/lua-dark.svg" width="40" alt="Lua">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/aws.svg" width="40" alt="AWS">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/docker.svg" width="40" alt="Docker">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/dotnet.svg" width="40" alt=".NET">
 </div>
 
 <h3>Tools and plataforms</h3>
 <div class="tools">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/vscode-dark.svg" width="40" alt="VSCode">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/windows-dark.svg" width="40" alt="Windows">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/github-dark.svg" width="40" alt="GitHub">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/git.svg" width="40" alt="Git">
-    <img style="pointer-events: none;" src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/discord-dark.svg" width="40" alt="Discord">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/vscode-dark.svg" width="40" alt="VSCode">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/windows-dark.svg" width="40" alt="Windows">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/github-dark.svg" width="40" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/git.svg" width="40" alt="Git">
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/discord-dark.svg" width="40" alt="Discord">
 </div>
 
 <h2 align="center">Support</h2>
