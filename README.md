@@ -33,6 +33,7 @@
 
 <h3>Interest</h3>
 <div>
+    <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/mongodb-dark.svg" width="40" alt="MongoDB">
     <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/opencv-dark.svg" width="40" alt="OpenCV">
     <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/cpp-dark.svg" width="40" alt="C++">
     <img src="https://raw.githubusercontent.com/JeffRodrigues7/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/lua-dark.svg" width="40" alt="Lua">
